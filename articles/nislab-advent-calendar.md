@@ -4,7 +4,7 @@ emoji: "🎄"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [AdventCalendar]
 publication_name: nislab
-published: false
+published: true
 ---
 
 は〜いこんにちは⤵︎
