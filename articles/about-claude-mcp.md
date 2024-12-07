@@ -4,7 +4,7 @@ emoji: "🆕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["claude","claudemcp","tech","newfeature"]
 publication_name: nislab
-published: false
+published: true
 ---
 は〜いこんにちは⤵︎
 またまたB4の猪田です。
