@@ -3,6 +3,7 @@ title: "Claude MCPのざっと概要"
 emoji: "🆕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["claude","claudemcp","tech","newfeature"]
+publication_name: nislab
 published: false
 ---
 は〜いこんにちは⤵︎
